@@ -1,0 +1,7 @@
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\bin\Debug\Semana5.exe.config
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\bin\Debug\Semana5.exe
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\bin\Debug\Semana5.pdb
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.csproj.AssemblyReference.cache
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.csproj.CoreCompileInputs.cache
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.exe
+C:\Users\yor_d\OneDrive\Escritorio\ED\Fundamentos-de-Algoritmos\Semana5\obj\Debug\Semana5.pdb
