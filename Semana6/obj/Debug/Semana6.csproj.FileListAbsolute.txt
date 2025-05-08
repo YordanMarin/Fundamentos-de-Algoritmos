@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\bin\Debug\Semana6.exe.config
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\bin\Debug\Semana6.exe
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\bin\Debug\Semana6.pdb
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\obj\Debug\Semana6.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\obj\Debug\Semana6.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\obj\Debug\Semana6.exe
+C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana6\obj\Debug\Semana6.pdb
