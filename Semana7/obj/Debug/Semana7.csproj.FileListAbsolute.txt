@@ -5,3 +5,10 @@ C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana7\obj\Debug\S
 C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.exe
 C:\Users\UPN\Desktop\Nueva carpeta\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.pdb
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\bin\Debug\Semana7.exe.config
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\bin\Debug\Semana7.exe
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\bin\Debug\Semana7.pdb
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.exe
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana7\obj\Debug\Semana7.pdb
