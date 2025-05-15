@@ -1,0 +1,7 @@
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\bin\Debug\Semana8.5.exe.config
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\bin\Debug\Semana8.5.exe
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\bin\Debug\Semana8.5.pdb
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\obj\Debug\Semana8.5.csproj.AssemblyReference.cache
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\obj\Debug\Semana8.5.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\obj\Debug\Semana8.5.exe
+C:\Users\UPN\Documents\FA\Fundamentos-de-Algoritmos\Semana8.5\obj\Debug\Semana8.5.pdb
